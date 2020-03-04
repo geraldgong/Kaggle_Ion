@@ -1,0 +1,2 @@
+# create requirements.txt
+pipdeptree -f --warn silence | grep -P '^[\w0-9\-=.]+' > requirements.txt
