@@ -7,6 +7,6 @@ pandas==1.0.1
 pipdeptree==0.13.2
 plaidml-keras==0.7.0
 pydot==1.4.1
-tensorflow==2.1.0
+tensorflow==2.5.0
 tensorflow-addons==0.9.1
 yapf==0.29.0
